@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hello World!
+# Denton Terrey Portfolio
 
 <img src="pics/Denny.png" alt="Denny (Me), holding up my two friends, Ethan and Gillean" width="1000" height="500">
 
