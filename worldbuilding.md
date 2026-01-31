@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Worldbuilding Progress 1/29
+# Worldbuilding Progress 1/29 
 
-## Inspiration
+## Inspiration!
 
 ---
 
