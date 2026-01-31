@@ -1,1 +1,4 @@
-This is the about me page
+---
+layout: default
+---
+# This is the about me page
