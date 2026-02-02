@@ -9,6 +9,11 @@ I make video games and stuff with the help of my squad of friends. I have made a
 
 # The Squad!
 
+## Me
+
+<img src="pics/Denny.png" alt="Denny" width="500" height="500">
+
+
 ## Tony
 
 <img src="pics/Tony.png" alt="Tony" width="500" height="500">
