@@ -4,7 +4,17 @@ layout: default
 
 # Worldbuilding Progress 1/29 
 
-## Inspiration!
+---
+
+## Intro
+
+---
+
+I will be making a world in which I will be able to add all of my created characters in a reasonable way. This will be the basis for both a dnd campaign I want to run and also a board game based on the characters as well.
+
+---
+
+### Inspiration!
 
 ---
 
@@ -16,4 +26,4 @@ The way to get these vastly different characters would be similar to Dead By Day
 
 ---
 
-<img src="pics/entity.png" alt="the Entity" width="400" height="400">
+<img src="pics/entity.png" alt="The Entity in Dead by Daylight" width="400" height="400">
