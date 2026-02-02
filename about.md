@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-# This is the about me page
+# About Me
 
-I make video games and stuff with the help of my squad of friends.
+I make video games and stuff with the help of my squad of friends. I have made a few games on itch.io and also have created many unreleased physical board games and a card game. Most work and stories are written by me while the others in my group give me feedback and some ideas that I develop.
 
 ---
 
