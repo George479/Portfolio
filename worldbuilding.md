@@ -29,7 +29,4 @@ The way to get these vastly different characters would be similar to Dead By Day
 
 ---
 
-#### DnD Layout
-
-
-The party will start on the planet already but as civilians within it. This will help skip over the idea of them being taken there from their own worlds (This may change if a player really wants a different world for their story but that would be a problem for later that I could easily fix). The way to get them involved in the conflict would be causing some sort of event where the "evil side" will do something to cause them some sort of loss. Might be a character important to players early on. I might also just have them find something they shouldn't have seen which could force them into either getting involved or being taken away from their homes. 
+[Board Game](https://docs.google.com/document/d/19Q8aqweCYfRFp5yDVOuF3UHxz8M7h0l8RrT4t6mSqeo/edit?usp=sharing)
