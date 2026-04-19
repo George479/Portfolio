@@ -15,7 +15,7 @@ A continuation of the plan for the board game. No adding new characters, instead
 ## Original Drawings
 ---
 
-<img src="pics/SusieOG.jpg" alt="Original Art For Susie" width="500" height="750">
+<img src="pics/SusieOG.jpg" alt="Original Art For Susie" width="500" height="500">
 
 ---
 
