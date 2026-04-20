@@ -8,7 +8,11 @@ layout: default
 ## Intro
 ---
 
-A continuation of the plan for the board game. No adding new characters, instead reviewing and improving
+A continuation of the plan for the board game. No adding new characters, instead reviewing and improving the current designs for the game.
+
+---
+
+The current card designs are done on index cards.
 
 ---
 
@@ -26,6 +30,14 @@ A continuation of the plan for the board game. No adding new characters, instead
 <img src="pics/BonAppetitOG.jpg" alt="Original Art For Bon Appetit" width="500" height="750">
 
 ---
+
+## Main Changes...
+
+---
+Layout
+Added color
+Better indication
+Flavor text
 
 ## Digital Designs
 ---
